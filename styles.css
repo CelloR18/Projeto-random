@@ -62,7 +62,7 @@ button:active {
     opacity: 0.6
 }
 
-@media (max-width:932px){
+@media (max-width:902px){
     *{
         margin: 0;
         padding: 0;
